@@ -57,13 +57,3 @@ Saya seorang mahasiswa Teknologi Informasi dari <strong>Universitas Brawijaya</s
     <img src="https://img.shields.io/badge/GIT-E84E31?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
 </p>
-
----
-
-### 📊 Statistik GitHub Saya:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lesnartambun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub Lesnar" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesnartambun&layout=compact&langs_count=7&theme=dracula" alt="Bahasa Teratas Lesnar" />
-</p>
