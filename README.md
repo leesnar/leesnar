@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZlajlkaGcybmJmYnNtcjM0d3ZzcmE4MmhvNmMxbzBsa2JqdXA1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iAhqK/giphy.gif" width="600px">
-</div>
-
----
-
 ### <div align="center">Hi there, I'm Lesnar Tambun 👋</div>
 
 <div align="center">
