@@ -1,15 +1,15 @@
 ### <div align="center">Hi there, I'm Lesnar Tambun 👋</div>
 
 <div align="center">
-Saya seorang mahasiswa Teknologi Informasi dari <strong>Universitas Brawijaya</strong>  dengan hasrat untuk mengubah data mentah menjadi insight yang bermakna dan solusi cerdas. Saya percaya pada kekuatan data untuk mendorong keputusan bisnis yang lebih baik dan inovasi teknologi.
+Saya seorang mahasiswa akhir jurusan Teknologi Informasi dari <strong>Universitas Brawijaya</strong>  dengan keminatan di bidang data science dan machine learning. Saya percaya pada kekuatan data untuk mendorong keputusan bisnis yang lebih baik dan inovasi teknologi.
 </div>
 
 ---
 
 ### 👨‍💻 Tentang Saya
 
-- 🔭 Saat ini saya sedang mencari peluang **Kerja Praktek (Internship)** di bidang **Data Scientist**.
-- 🌱 Saya baru saja menyelesaikan program **Studi Independen MSIB di Dicoding** dengan fokus pada **Machine Learning Engineering**.
+- 🔭 Saat ini saya sedang mencari peluang **(Internship)** di bidang **Data Scientist** atau **Machine Learning Engineering**.
+- 🌱 Saya pernah mengikuti program **Studi Independen MSIB di Dicoding** dengan fokus pada **Machine Learning Engineering**.
 - 💻 Saya memiliki pengalaman membangun proyek *end-to-end*, mulai dari analisis data, pemodelan prediktif, hingga sistem rekomendasi.
 - 💬 Tanya saya tentang: **Python, Scikit-learn, TensorFlow, atau proyek-proyek** yang ada di profil saya!
 - 📫 Cara menghubungi saya: **lesnartambun1808@gmail.com**
