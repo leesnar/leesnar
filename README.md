@@ -22,7 +22,7 @@ I don't stop at a prediction — I test whether a model holds up, whether its ex
 🎯 XGBoost recall (thesis, clinical screening) ......... 92.86%
 🛡️  Random Forest accuracy (intrusion detection) ........ 99.80%
 📊 SHAP stability, Jaccard index (vs LIME 0.6103) ....... 0.7184
-🎓 GPA ................................................... 3.70 / 4.00
+🎓 GPA ................................................... 3.72 / 4.00
 ```
 
 ---
